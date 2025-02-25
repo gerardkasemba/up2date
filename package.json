@@ -1,0 +1,45 @@
+{
+  "name": "sdb2b",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "next": "15.0.2",
+    "@react-google-maps/api": "^2.19.3",
+    "@reduxjs/toolkit": "^2.2.6",
+    "@square/web-sdk": "^2.0.1",
+    "apexcharts": "^3.54.1",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.2",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "moment": "^2.30.1",
+    "mongodb": "^6.8.0",
+    "next": "^14.2.13",
+    "prismjs": "^1.29.0",
+    "qrcode": "^1.5.4",
+    "react": "^18",
+    "react-apexcharts": "^1.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-cool-onclickoutside": "^1.7.0",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-places-autocomplete": "^7.3.0",
+    "react-redux": "^9.1.2",
+    "react-select": "^5.8.0",
+    "react-simple-maps": "^3.0.0",
+    "react-syntax-highlighter": "^15.6.1",
+    "use-places-autocomplete": "^4.0.1"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}

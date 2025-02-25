@@ -1,0 +1,17 @@
+@import "~prismjs/themes/prism-tomorrow.css";
+/* styles/integrations.css */
+.integration-help-container {
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .code-snippet {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+  }
+  
+  button.active {
+    background-color: #0056b3;
+    color: white;
+  }
+  
